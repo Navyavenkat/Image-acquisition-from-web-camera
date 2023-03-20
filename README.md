@@ -133,14 +133,6 @@ cv2.destroyAllWindows()
 
 
 
-### iii) Display the video by resizing the window
-
-
-
-
-
-
-
 
 ### iv) Rotate and display the video
 
